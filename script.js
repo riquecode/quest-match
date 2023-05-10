@@ -15,5 +15,5 @@ btn.style.transition = "all 0.3s ease";
 });
 
 function tanks() {
-alert("Só preciso do seu sim, linda e estressada.");
+alert("Independente de está linda ou estressada, sabia que iria dizer sim.");
 }
